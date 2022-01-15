@@ -1,0 +1,17 @@
+Guide to manually add a SharedStashTab
+_______________________________________
+
+
+rename your sharedstash file if you already have 1 and start the game, we need an empty one
+
+open the .d2i file with a hexeditor of your choice, e.g. HxD
+
+select the first 68 Bytes, those are (as you might see) a repeating pattern and is a single Shared Stash Tab
+
+copy those bytes and append those to the end of the file
+
+save & test it
+y
+ou can append those bytes and the end of filled SharedStash Files as well!
+
+Just keep in mind that the max. Amount of Stash Tabs is 7
