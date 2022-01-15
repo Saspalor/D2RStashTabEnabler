@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+    <AssemblyName>D2R StashTabEnabler</AssemblyName>
+    <RootNamespace>D2R StashTabEnabler</RootNamespace>
+    <Copyright />
+    <Authors></Authors>
+    <Company />
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StashTabEnabler", "StashTabEnabler\StashTabEnabler.csproj", "{B829A330-729C-421F-A892-B097BDE9B65E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B829A330-729C-421F-A892-B097BDE9B65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B829A330-729C-421F-A892-B097BDE9B65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B829A330-729C-421F-A892-B097BDE9B65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B829A330-729C-421F-A892-B097BDE9B65E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {630DF80C-F2B0-4671-8A1B-B5322B7E896C}
+	EndGlobalSection
+EndGlobal
